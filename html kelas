@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil Kelas XI MPLB 1</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1>Profil Kelas <span>XI MPLB 1</span></h1>
+      <p>Membangun generasi profesional dengan kompetensi di bidang administrasi dan layanan bisnis.</p>
+    </div>
+  </header>
+  
+  <nav class="navbar">
+    <div class="container">
+      <ul>
+        <li><a href="#about">Tentang Kami</a></li>
+        <li><a href="#members">Anggota</a></li>
+        <li><a href="#activities">Kegiatan</a></li>
+        <li><a href="#contact">Kontak</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>Tentang Kami</h2>
+      <p>Kelas XI MPLB 1 adalah komunitas siswa yang mempersiapkan diri untuk menjadi tenaga profesional di bidang administrasi perkantoran dan layanan bisnis. Kami menjunjung tinggi nilai disiplin, inovasi, dan profesionalisme.</p>
+    </div>
+  </section>
+
+  <section id="members" class="section">
+    <div class="container">
+      <h2>Anggota Kelas</h2>
+      <div class="grid">
+        <div class="card">
+          <img src="leader.jpg" alt="Ketua Kelas">
+          <h3>Nama Siswa</h3>
+          <p>Ketua Kelas</p>
+        </div>
+        <div class="card">
+          <img src="deputy.jpg" alt="Wakil Ketua Kelas">
+          <h3>Nama Siswa</h3>
+          <p>Wakil Ketua Kelas</p>
+        </div>
+        <!-- Tambahkan anggota lainnya -->
+      </div>
+    </div>
+  </section>
+
+  <section id="activities" class="section">
+    <div class="container">
+      <h2>Kegiatan Kelas</h2>
+      <p>Kami aktif dalam berbagai kegiatan seperti pelatihan administrasi, magang, dan partisipasi dalam lomba manajemen perkantoran untuk meningkatkan keterampilan dan pengalaman siswa.</p>
+    </div>
+  </section>
+
+  <footer id="contact" class="footer">
+    <div class="container">
+      <p>Kontak Kami: <a href="mailto:kelasximplb1@example.com">kelasximplb1@example.com</a></p>
+      <p>&copy; 2024 Kelas XI MPLB 1. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
